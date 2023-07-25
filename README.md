@@ -45,10 +45,3 @@ To deploy this Azure infrastructure setup using Terraform, follow these steps:
 7. Run `terraform apply` to apply the configuration and create the Azure infrastructure.
 8. Confirm the changes and wait for the deployment to complete.
 
-### Contributions
-
-Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
