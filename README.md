@@ -1,4 +1,5 @@
 ## Terraform-Based Azure Infrastructure Automation for Cloud Deployment
+![terraform](https://github.com/Zahyl/Terraform-with-Azure/assets/71133664/363fc0ca-ade0-46e4-9806-f596088e6f3f)
 
 ### Overview
 
